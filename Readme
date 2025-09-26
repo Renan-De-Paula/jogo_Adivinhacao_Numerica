@@ -11,16 +11,11 @@ Compara o número digitado com o número gerado
 Exibe mensagens diferentes para vitória ou erro
 
 📌 Exemplo de Uso
-less
-Copiar
-Editar
 Vou pensar em um número entre 0 a 10, adivinhe o número:  
 Em que número pensei? 7  
 O número sorteado foi 7  
 Você ganhou! Parabéns!  
-less
-Copiar
-Editar
+
 Vou pensar em um número entre 0 a 10, adivinhe o número:  
 Em que número pensei? 3  
 O número sorteado foi 6  
